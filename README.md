@@ -14,4 +14,4 @@ Run "make" in this directory to compile code.
 
 Run "./C_elegans_simulator" to run.
 
-Running "render timeseries.nb" with the Import[] functions adjusted to your machine's directory path with show a rendering of your simulation in **C_elegans_test**
+Running "render timeseries.nb" with the Import[] functions adjusted to your machine's directory path will show a rendering of your simulation in **C_elegans_test**
