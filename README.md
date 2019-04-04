@@ -1,6 +1,6 @@
 # PhD_Code_Example
 
-**Example code** shows an example of the code I wrote during my PhD to examine the robustness of the early _C._ _elegans_ embryo to noise in division timing, division angles and offsets on when different cells divide
+**Example_code** shows an example of the code I wrote during my PhD to examine the robustness of the early _C._ _elegans_ embryo to noise in division timing, division angles and offsets on when different cells divide
 
 _C_elegans_simulator.cc_ is the main simulator code.
 
