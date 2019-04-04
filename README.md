@@ -4,7 +4,7 @@
 
 _C_elegans_simulator.cc_ is the main simulator code.
 
-_update.cc_ contains the definitions of many of the simulator fucntions.
+_update.cc_ contains the definitions of many of the simulator functions.
 
 _simdefs.cc_ contains some miscellaneous function definitions.
 
