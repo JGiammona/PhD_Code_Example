@@ -1,4 +1,4 @@
-# Graduate_Research2
+# PhD_Code_Example
 
 **Example code** shows an example of the code used to examine the robustness of the early _C._ _elegans_ embryo to noise in division timing, division angles and offsets on when different cells divide
 
